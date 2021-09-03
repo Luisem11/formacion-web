@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@100;300;400&display=swap");
+/* 
+$white:#F7F7F7;
+$purple:#F3ADC8;
+$gray-light:#F0F0F0;
+$blue:#114EAB;
+$blue-light:#088CC0;
+$red:#F27F81;
+$black:#232323; */
+
+body {
+  width: 100%;
+  overflow-x: hidden;
+}
+.container {
+  min-height: 100vh;
+  background-color: #114eab;
+  font-family: Londrina Solid;
+  color: #f7f7f7;
+  padding: 3rem;
+  align-items: center;
+  justify-items: center;
+}
+.title {
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  padding: 1rem 0;
+  font-size: 3rem;
+}
+
+.items-container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px;
+}
+
+.item {
+  background-color: #f27f81;
+  font-size: 1.5rem;
+  text-align: center;
+  border-radius: 4px;
+}
+
+.item:nth-child(2n) {
+  background-color: #088cc0;
+}
+
+.item:nth-child(10) {
+  grid-column: 1 / span 3;
+  grid-row: 3 / 5;
+}

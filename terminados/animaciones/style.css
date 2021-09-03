@@ -1,0 +1,100 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: black;
+}
+
+.img-container {
+  max-width: 400px;
+  position: relative;
+  overflow: hidden;
+}
+
+.image {
+  max-width: 100%;
+}
+
+.equation {
+  top: 0;
+  left: 0;
+  width: 100px;
+  position: absolute;
+  filter: invert(1);
+}
+
+.anim-1 {
+  top: 20%;
+  left: 50%;
+  animation: back-to-front 3s infinite linear;
+}
+
+.anim-2 {
+  left: 10%;
+  animation: up-to-down 4s infinite linear;
+}
+
+.anim-3 {
+  left: 60%;
+  animation: up-to-down 5s infinite reverse linear;
+}
+
+.anim-4 {
+  left: 30%;
+  animation: back-to-front 5s infinite reverse linear;
+}
+.anim-5 {
+  top: 30%;
+  left: 30%;
+  animation: rotate 5s infinite linear;
+}
+
+.anim-6 {
+  top: 40%;
+  left: 30%;
+  animation: back-to-front 5s infinite linear;
+}
+
+.anim-7 {
+  left: 50%;
+  animation: up-to-down 7s infinite linear;
+}
+
+@keyframes back-to-front {
+  0% {
+    opacity: 0;
+    transform: scale(0.3) translate(80px, 0);
+  }
+
+  60% {
+    opacity: 1;
+    transform: translate(80px, 0);
+  }
+
+  80% {
+    transform: scale(1.2) translate(90px, 0);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.4) translate(100px, 0);
+  }
+}
+
+@keyframes up-to-down {
+  0% {
+    top: -10%;
+  }
+  100% {
+    top: 110%;
+  }
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg) scale(0.5);
+  }
+  100% {
+    transform: rotate(300deg) scale(1.5);
+  }
+}
