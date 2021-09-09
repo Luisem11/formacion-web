@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@100;300;400&display=swap");
+/* 
+$white:#F7F7F7;
+$purple:#F3ADC8;
+$gray-light:#F0F0F0;
+$blue:#114EAB;
+$blue-light:#088CC0;
+$red:#F27F81;
+$black:#232323; */
+
+body {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.container {
+  min-height: 100vh;
+  background-color: #114eab;
+  font-family: Londrina Solid;
+  color: #f7f7f7;
+  padding: 3rem;
+}
+
+.title {
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  padding: 1rem 0;
+  font-size: 3rem;
+}
+
+.items-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.item {
+  background-color: #f27f81;
+  font-size: 1.5rem;
+  text-align: center;
+  border-radius: 4px;
+  order: 5;
+}
+
+.item:nth-child(1) {
+  min-width: 100%;
+  min-height: 100px;
+}
+
+.item:nth-child(2) {
+  min-width: 79%;
+  min-height: 300px;
+  background-color: black;
+  order: 2;
+}
+.item:nth-child(3) {
+  min-width: 20%;
+  min-height: 300px;
+  order: 1;
+}
+
+.item:nth-child(29) {
+  flex-grow: 1;
+}
+
+.item:nth-child(30) {
+  flex-grow: 1;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .title {
+    font-size: 1.5rem;
+  }
+
+  .items-container {
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .item:nth-child(2) {
+    order: 1;
+  }
+
+  .item:nth-child(3) {
+    display: none;
+  }
+  .item:nth-child(1) {
+    visibility: hidden;
+  }
+}

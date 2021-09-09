@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@100;300;400&display=swap");
+/* 
+$white:#F7F7F7;
+$purple:#F3ADC8;
+$gray-light:#F0F0F0;
+$blue:#114EAB;
+$blue-light:#088CC0;
+$red:#F27F81;
+$black:#232323; */
+
+body {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.container {
+  min-height: 100vh;
+  background-color: #232323;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-container {
+  max-width: 400px;
+  position: relative;
+  overflow: hidden;
+}
+
+.image {
+  max-width: 100%;
+}
+
+.equation {
+  width: 100px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  filter: invert(1);
+}
+
+.anim-1 {
+  animation-name: back-to-front;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  top: 20%;
+  left: 40%;
+}
+
+@keyframes back-to-front {
+  0% {
+    opacity: 0;
+    transform: scale(0.3) translate(80px, 0);
+  }
+  60% {
+    opacity: 1;
+    transform: scale(1) translate(90px, 0);
+  }
+  80% {
+    transform: scale(1.2) translate(100px, 0);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.4) translate(100px, 0);
+  }
+}
+
+.anim-2 {
+  animation-name: up-to-down;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes up-to-down {
+  from {
+    top: -10%;
+  }
+  to {
+    top: 100%;
+  }
+}
+
+.anim-3 {
+  animation-name: up-to-down;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-direction: reverse;
+  left: 50%;
+}
+
+.anim-4 {
+  animation-name: back-to-front;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-direction: alternate-reverse;
+  top: 50%;
+  left: 10%;
+}
+
+.anim-5 {
+  animation: rotate 6s infinite linear;
+  top: 10%;
+  left: 10%;
+}
+
+@keyframes rotate {
+  from {
+    opacity: 0.3;
+    transform: rotate(0deg) scale(0);
+  }
+  to {
+    opacity: 1;
+    transform: rotate(360deg) scale(1.5);
+  }
+}
