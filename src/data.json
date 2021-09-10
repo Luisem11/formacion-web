@@ -1,0 +1,901 @@
+{
+    "data": [
+        {
+            "nombre": "andinas_centro_oriente",
+            "anim": "ANDINA_CENTRO_ORIENTE.gif",
+            "titulo": "Andinas centro oriente",
+            "cuerpo": "La región Andina centro oriente comprende los departamentos de Santander, Norte de Santander, Boyacá y Cundinamarca, donde son comunes géneros como la guabina, torbellino y la música de carranga. <br><br>            El conjunto guabinero, presente en el departamento de Santander, tiene como expresión la guabina, una música que alterna torbellinos instrumentales con cantos a capella interpretados por duetos. El conjunto carranguero se conforma principalmente con cuartetos de tiple requinto, tiple, guitarra y guacharaca. La música carranguera es alegre y fiestera, y nació de la mano del compositor Jorge Velosa y los Carrangueros de Ráquira. Se encuentra principalmente en los departamentos de Cundinamarca, Boyacá y Santander.<br><br> Algunos de los eventos en los que más se visibilizan estas manifestaciones musicales son el Festivalito Ruitoqueño​ en Floridablanca, Santander, o en los aguinaldos realizados en Navidad en el departamento de Boyacá. ",
+            "mapa": "",
+            "ind_pos": "tl",
+            "color_fondo": "#f9ada7",
+            "canciones": [
+                {
+                    "cancion": "El_Rey_Pobre",
+                    "nombre": "El rey pobre",
+                    "genero": "Carranga",
+                    "autor": "Jorge Velosa"
+                },
+                {
+                    "cancion": "La_China_Que_Yo_Tenia",
+                    "nombre": "La china que yo tenía",
+                    "genero": "Carranga",
+                    "autor": "Jorge Velosa"
+                },
+                {
+                    "cancion": "Me_Dices",
+                    "nombre": "Me dices",
+                    "genero": "Carranga",
+                    "autor": "Ana Yesmín Hernandez y Luis Alberto Aljure"
+                }
+            ],
+            "instrumentos": [
+                {
+                    "nombre": "Guacharaca",
+                    "sonido": "Carrasca Carranguera",
+                    "anim": "GUACHARACA.gif",
+                    "texto": "Instrumento de origen indígena que también se conoce como raspa. Su nombre proviene del canto del ave con el mismo nombre. Es fabricado con una sección de caña dentada en la parte frontal y hueca en la posterior. Para interpretarlo, se frota la parte corrugada con un tenedor metálico, hecho de alambre duro y un mango de madera.                     "
+                },
+                {
+                    "nombre": "Guitarra",
+                    "sonido": "Guitarra carranguera",
+                    "anim": "GUITARRA.gif",
+                    "texto": "Instrumento de cuerda con una tapa de pino y una caja de resonancia elaborada generalmente en cedro. Tiene seis cuerdas de nailon o tripa y dieciocho trastes; es decir, las divisiones del mango que indican la posición de los dedos para las diferentes tonalidades.                     "
+                },
+                {
+                    "nombre": "Tiple",
+                    "sonido": "Tiple carranguero",
+                    "anim": "TIPLE.gif",
+                    "texto": "Se origina en la guitarra española, pero es un poco más pequeño. Tiene doce cuerdas metálicas agrupadas de a tres. Es típico de Colombia y declarado por el Congreso de la República como Patrimonio Cultural de la Nación. Se utiliza en el acompañamiento de ritmos tradicionales como pasillo, bambuco y trova paisa. También como instrumento solista en festivales de música andina.                    "
+                },
+                {
+                    "nombre": "Tiple requinto",
+                    "sonido": "Tiple requinto carranguera",
+                    "anim": "Tiple_requinto.gif",
+                    "texto": "Su afinación coincide con el tiple y con las cuatro primeras cuerdas de la guitarra, pero produce un sonido más brillante. La caja de resonancia suele ser más pequeña que la del tiple. Se usa para interpretar melodías y sus cuerdas se tocan con los dedos o con un plectro (púa). Sustituye a la bandola en ritmos andinos como la carranga.                     "
+                }
+            ]
+        },
+        {
+            "nombre": "andinas_centro_sur",
+            "anim": "ANDINA_CENTROSUR.gif",
+            "titulo": "Andinas centro sur",
+            "cuerpo": "El territorio andino centro sur comprende los departamentos del Tolima y Huila. Los repertorios de esta región son interpretados por el dueto vocal instrumental, la cucamba o grupo rajaleñero y la estudiantina. Los géneros más representativos son guabina, bunde, pasillo, rajaleña, bambuco fiestero, sanjuanero, merengue campesino y rumba criolla. Los eventos más reconocidos son El Festival Folclórico de Ibagué y las Fiestas de San Juan y San Pedro, en Neiva. <br><br> El conjunto rajaleñero está conformado por voces e instrumentos de cuerdas, como el tiple requinto, el tiple y la guitarra. Además, instrumentos de percusión, como la tambora andina, el carángano, el ciempiés, la esterilla, el chucho, los mates, la marrana y la guacharaca.",
+            "mapa": "",
+            "ind_pos": "br",
+            "color_fondo": "#3c69ce",
+            "canciones": [
+                {
+                    "cancion": "Coplas_Penablancunas",
+                    "nombre": "Coplas peñablancunas",
+                    "genero": "Rajaleña",
+                    "autor": "Tradicional"
+                },
+                {
+                    "cancion": "Tonada_de_Aipe_No_3",
+                    "nombre": "Tonada de Aipe No.3.",
+                    "genero": "Rajaleña",
+                    "autor": "Tradicional"
+                }
+            ],
+            "instrumentos": [
+                {
+                    "nombre": "Bombo andino",
+                    "sonido": "",
+                    "anim": "BOMBO_ANDINO.gif",
+                    "texto": "Instrumento elaborado con láminas de madera que se doblan con calor para obtener su forma cilíndrica. Las membranas son pieles de ovino con pelo. Tiene el mismo diseño del bombo legüero argentino que interpreta músicas andinas con instrumentos como el charango, la quena y los sikus."
+                },
+                {
+                    "nombre": "Carángano",
+                    "sonido": "",
+                    "anim": "CARANGANO.gif",
+                    "texto": "Es una guadua de gran tamaño a la que se le hacen cortes longitudinales que permiten que partes de la corteza vibren al ser percutidas con baquetas.                    "
+                },
+                {
+                    "nombre": "Chucho",
+                    "sonido": "",
+                    "anim": "CHUCHO.gif",
+                    "texto": "Es un idiófono de sacudimiento. Es decir, el sonido se produce al sacudir el cuerpo del instrumento. Esta sonaja tubular se elabora generalmente con cilindros de madera, a los cuales se les introducen semillas de mararayes, pipos o tocuas. Se sacude rítmicamente para interpretarla.                    "
+                },
+                {
+                    "nombre": "Esterilla",
+                    "sonido": "",
+                    "anim": "ESTERILLA.gif",
+                    "texto": "Conformada por una hilera de tallos de caña de igual tamaño. Los tallos se unen con una cuerda de cáñamo que forma manijas a cada extremo de la hilera. Para interpretarla, se toma de los extremos y se hace fricción entre sus tubos o cañas.                    "
+                },
+                {
+                    "nombre": "Guitarra",
+                    "sonido": "Guitarra carranguera",
+                    "anim": "GUITARRA.gif",
+                    "texto": "Instrumento de cuerda con una tapa de pino y una caja de resonancia elaborada generalmente en cedro. Tiene seis cuerdas de nailon o tripa y dieciocho trastes; es decir, las divisiones del mango que indican la posición de los dedos para las diferentes tonalidades.                     "
+                },
+                {
+                    "nombre": "Marrana o zambumbia",
+                    "sonido": "",
+                    "anim": "MARRANA.gif",
+                    "texto": "Instrumento de membrana conocido como puerca, debido a que su sonido es similar al gruñido del cerdo. Se fabrica con un calabazo recortado como caja de resonancia, recubierto con un parche o cuero de animal. En el centro del cuero lleva incrustada una varilla de madera. Se interpreta frotando la vara con la mano para hacer vibrar la membrana.                    "
+                },
+                {
+                    "nombre": "Quiribillos",
+                    "sonido": "",
+                    "anim": "QUIRIBILLOS.gif",
+                    "texto": "Se fabrican con un grupo de tubos de caña huecas de igual tamaño atadas con cuerdas que las atraviesan longitudinalmente; en los extremos se amarran dejando unas asas para sacudir el conjunto de las cañas.                    "
+                },
+                {
+                    "nombre": "Tiple",
+                    "sonido": "Tiple carranguero",
+                    "anim": "TIPLE.gif",
+                    "texto": "Se origina en la guitarra española, pero es un poco más pequeño. Tiene doce cuerdas metálicas agrupadas de a tres. Es típico de Colombia y declarado por el Congreso de la República como Patrimonio Cultural de la Nación. Se utiliza en el acompañamiento de ritmos tradicionales como pasillo, bambuco y trova paisa. También como instrumento solista en festivales de música andina.                    "
+                },
+                {
+                    "nombre": "Tiple requinto",
+                    "sonido": "Tiple requinto carranguera",
+                    "anim": "Tiple_requinto.gif",
+                    "texto": "Su afinación coincide con el tiple y con las cuatro primeras cuerdas de la guitarra, pero produce un sonido más brillante. La caja de resonancia suele ser más pequeña que la del tiple. Se usa para interpretar melodías y sus cuerdas se tocan con los dedos o con un plectro (púa). Sustituye a la bandola en ritmos andinos como la carranga.                     "
+                }
+            ]
+        },
+        {
+            "nombre": "andinas_suroccidente",
+            "anim": "ANDINA_SUROCCIDENTAL.gif",
+            "titulo": "Andinas suroccidente",
+            "cuerpo": "El territorio andino suroccidente comprende los departamentos de Nariño y parte del Cauca y del Putumayo, los cuales recibieron influencia de países como Ecuador, Perú y Bolivia, que se observa en el uso de instrumentos como las zampoñas y el charango. El evento que más promueve este tipo de músicas es el Carnaval de Negros y Blancos en la ciudad de Pasto. <br><br>Otro conjunto típico de la región es la chirimía caucana o banda de flautas: su mayor presencia está en los departamentos de Cauca y Huila al igual que en la zona de Riosucio en Caldas y en el litoral Pacífico. Se compone de flautas traversas, con una líder o prima acompañada de otras denominadas segunderas, que llegan a producir muchas voces simultáneas. La percusión básica es bombo y redoblante, junto a instrumentos como maracas, charrasca y triángulo.            ",
+            "mapa": "",
+            "ind_pos": "br",
+            "color_fondo": "#ffb549",
+            "canciones": [
+                {
+                    "cancion": "01_SOTARENO",
+                    "nombre": "Sotareño",
+                    "genero": "Flautas caucanas",
+                    "autor": "Francisco Diago"
+                }
+            ],
+            "instrumentos": [
+                {
+                    "nombre": "Flauta travesera",
+                    "sonido": "",
+                    "anim": "FLAUTA_TRAVERSA.gif",
+                    "texto": "Instrumento melódico hecho con el tallo de un arbusto llamado carrizo. Tiene un hueco en la parte superior —la embocadura—, que sirve para soplar el aire. Su cuerpo tiene una serie de agujeros que se tapan y destapan con la yema de los dedos para obtener los diferentes tonos. Existen muchas variaciones de esta flauta a lo largo de la región.                    "
+                },
+                {
+                    "nombre": "Tambora",
+                    "sonido": "",
+                    "anim": "BOMBO_CAUCA.gif",
+                    "texto": "Instrumento de membranas elaborado con un tronco de madera hueco. posee dos parches de cuero de ovejo que son atados a la madera por medio de cuatro aros de bejuco. Se interpreta con baquetas al golpear de tres maneras: sobre el aro de bejuco, sobre el cuerpo y sobre el parche.                    "
+                },
+                {
+                    "nombre": "Redoblante ",
+                    "sonido": "",
+                    "anim": "REDOBLANTE_ANDINO.gif",
+                    "texto": "Instrumento de percusión de forma cilíndrica con un cuerpo hecho de madera. Tiene dos parches que se tocan con baquetas y, en lugar de usar un mecanismo con fibras metálicas, como en otro tipo de redoblantes, tiene tres tiras de cuero que repercuten sobre el parche inferior.                     "
+                },
+                {
+                    "nombre": "Maracas",
+                    "sonido": "",
+                    "anim": "MARACAS.gif",
+                    "texto": "Calabazos esféricos con semillas en su interior y mango de madera. Es un idiófono de sacudimiento —el sonido se produce al sacudir el cuerpo del instrumento—. Existen muchas formas de maracas en Colombia, que varían según su tamaño y materiales de fabricación.                    "
+                },
+                {
+                    "nombre": "Triángulo",
+                    "sonido": "",
+                    "anim": "Triangulo.gif",
+                    "texto": "Instrumento de percusión de origen europeo, de forma triangular y elaborado con una varilla de acero. Se interpreta sosteniendo el triángulo con algún material, como tela o paja, que permita la resonancia del sonido luego de que es golpeado con otra varilla.                    "
+                },
+                {
+                    "nombre": "Charrasca",
+                    "sonido": "",
+                    "anim": "CHARRASCA.gif",
+                    "texto": "Instrumento de percusión que se elabora con un fruto llamado calabaza o totumo seco. Se le hacen cortes transversales a lo largo del cuerpo del instrumento y su sonido se produce al frotarlo con un tridente de metal o madera llamado trinche. En el sur del país recibe el nombre de charrasca y en el centro es llamada guacharaca y se construye de caña.                    "
+                }
+            ]
+        },
+        {
+            "nombre": "andino_noroccidente",
+            "anim": "ANDINA_NOROCCIDENTAL.gif",
+            "titulo": "Andinas noroccidente",
+            "cuerpo": "Las expresiones musicales de este eje se encuentran principalmente en los departamentos de Antioquia, Risaralda, Quindío y Caldas, donde son fuertes los géneros como el pasillo y el bambuco.<br><br> El trío instrumental está conformado por tiple, bandola y guitarra. Un pequeño conjunto de instrumentos que permite gran variedad de sonidos y ritmos. La estudiantina es una ampliación del formato de trío, y está compuesta principalmente por guitarras, tiples, bandolas, contrabajo y percusión. Recibe su nombre por la participación de estudiantes en este tipo de agrupaciones.<br><br>Eventos folclóricos como las Fiestas de la Cosecha y el Festival Nacional del Bambuco, en Pereira, y el Festival de música Andina Mono Núñez, en Ginebra, Valle del Cauca, han sido importantes escenarios para la divulgación y apropiación de estas músicas.            ",
+            "mapa": "",
+            "ind_pos": "bl",
+            "color_fondo": "#16a564",
+            "canciones": [
+                {
+                    "cancion": "01_Bochicaniando",
+                    "nombre": "Bochicaniando",
+                    "genero": "Estudiantina",
+                    "autor": "Luis Uribe Bueno"
+                },
+                {
+                    "cancion": "03_Perla_del_Ruiz",
+                    "nombre": "Perla del Ruiz",
+                    "genero": "Trío andino",
+                    "autor": "Luis A. Calvo"
+                },
+                {
+                    "cancion": "Guayabito",
+                    "nombre": "Guayabito",
+                    "genero": "Estudiantina con percusión",
+                    "autor": "Tradicional"
+                }
+            ],
+            "instrumentos": [
+                {
+                    "nombre": "Bandola andina",
+                    "sonido": "",
+                    "anim": "BANDOLA_ANDINA.gif",
+                    "texto": "Instrumento de cuerdas pulsadas que se toca con plectro o púa. Su papel principal ha sido el de llevar melodía en músicas como bambuco, pasillo y torbellino. Usualmente está acompañada por un tiple y una guitarra.                    "
+                },
+                {
+                    "nombre": "Cucharas",
+                    "sonido": "",
+                    "anim": "CUCHARAS.gif",
+                    "texto": "Los habitantes de las zonas urbanas y rurales de la región andina colombiana transformaron las cucharas de cocina, generalmente fabricadas con madera del árbol de naranjo, en un instrumento musical, como reemplazo de las castañuelas españolas. El instrumento se toca chocando las partes cóncavas de las cucharas entrelazadas en los dedos.                    "
+                },
+                {
+                    "nombre": "Guacho",
+                    "sonido": "",
+                    "anim": "GUACHO.gif",
+                    "texto": "Instrumento que hace las veces de una sonaja tubular, fabricada por lo general con un tubo de latón y semillas secas de acacia, capacho o bijao en su interior. Se interpreta agitando el instrumento.                    "
+                },
+                {
+                    "nombre": "Guitarra",
+                    "sonido": "Guitarra carranguera",
+                    "anim": "GUITARRA.gif",
+                    "texto": "Instrumento de cuerda con una tapa de pino y una caja de resonancia elaborada generalmente en cedro. Tiene seis cuerdas de nailon o tripa y dieciocho trastes; es decir, las divisiones del mango que indican la posición de los dedos para las diferentes tonalidades.                     "
+                },
+                {
+                    "nombre": "Tiple",
+                    "sonido": "Tiple carranguero",
+                    "anim": "TIPLE.gif",
+                    "texto": "Se origina en la guitarra española, pero es un poco más pequeño. Tiene doce cuerdas metálicas agrupadas de a tres. Es típico de Colombia y declarado por el Congreso de la República como Patrimonio Cultural de la Nación. Se utiliza en el acompañamiento de ritmos tradicionales como pasillo, bambuco y trova paisa. También como instrumento solista en festivales de música andina.                    "
+                }
+            ]
+        },
+        {
+            "nombre": "caribe_occidental_cojunto_gaitas_largas",
+            "anim": "CARIBE_OCC_GAITAS.gif",
+            "titulo": "Caribe occidental",
+            "cuerpo": "El Caribe occidental comprende los territorios de Sucre, Bolívar, Córdoba, Atlántico, parte del Magdalena y una pequeña franja del noroccidente de Antioquia. <br><br>            A lo largo del litoral, se difundieron diferentes tipos de flautas y tambores, a los que se sumaron durante el siglo XVIII instrumentos como platillos, bombardinos, trompetas y clarinetes, propios de las bandas europeas. Con estos instrumentos, inicialmente se interpretaron bailes de salón, como mazurcas, polcas y valses, pero hoy representan un fuerte movimiento de bandas pelayeras que interpretan ritmos tradicionales en las sabanas.<br><br>            El Carnaval de Barranquilla y las Fiestas de Corralejas en Sincelejo son algunos de los eventos que más visibilizan estas músicas. De esta región provienen los diferentes tipos de cumbia, unos de los géneros musicales colombianos más conocidos en el mundo. ",
+            "mapa": "",
+            "ind_pos": "bl",
+            "color_fondo": "#3c69ce",
+            "canciones": [
+                {
+                    "cancion": "La_muerte_Bajeros_de_la_montana",
+                    "nombre": "La muerte",
+                    "genero": "Conjunto de gaitas",
+                    "autor": "Manuel 'Mañe' Mendoza"
+                }
+            ],
+            "instrumentos": [
+                {
+                    "nombre": "Gaita macho",
+                    "sonido": "",
+                    "anim": "GAITA_MACHO.gif",
+                    "texto": "Instrumento de viento fabricado con tubos obtenidos de diferentes cactus, como el cardón o la pitahaya. En un extremo tiene la base de una pluma de pato, que funciona como boquilla, sostenida con cera de abeja mezclada con carbón vegetal molido. La gaita macho tiene dos orificios y acompaña siempre a la gaita hembra. Un gaitero interpreta esta gaita con una mano y con la otra toca la maraca.                    "
+                },
+                {
+                    "nombre": "Gaita hembra",
+                    "sonido": "",
+                    "anim": "GAITA_HEMBRA.gif",
+                    "texto": "Instrumento de viento fabricado con tubos obtenidos de diferentes cactus, como el cardón o la pitahaya. En un extremo tiene la base de una pluma de pato, que funciona como boquilla, sostenida con cera de abeja mezclada con carbón vegetal molido. Esta gaita es de tipo melódico y tiene cinco orificios de los cuales solo se utilizan los cuatro superiores. Se ejecuta normalmente en compañía de la gaita macho.                    "
+                },
+                {
+                    "nombre": "Maracones",
+                    "sonido": "",
+                    "anim": "MARACON.gif",
+                    "texto": "Idiófonos de sacudimiento —el sonido se produce al sacudir el cuerpo del instrumento— hechos de totumo, que tienen por dentro semillas secas de acacia, capacho o bijao. Por lo general, los interpreta el gaitero macho o machero con una mano, mientras con la otra interpreta la gaita.                    "
+                },
+                {
+                    "nombre": "Tambora",
+                    "sonido": "",
+                    "anim": "TAMBORA_CARIBE.gif",
+                    "texto": "Tambor cilíndrico, fabricado con madera. Es parecido al bombo de la música del Pacífico. Posee dos membranas de piel de venado, chivo o ternero, ancladas a un sistema de tensión con aros. Se toca con baquetas: una larga, para el aro o la madera, y otra más pequeña y gruesa, para el parche.            "
+                },
+                {
+                    "nombre": "Tambor alegre",
+                    "sonido": "",
+                    "anim": "TAMBOR_ALEGRE.gif",
+                    "texto": "Tambor cónico de una sola membrana y abierto abajo. Se fabrica con tronco de árbol y un cuero de animal como parche, que se tensiona con cuerdas y cuñas de madera. Se toca con las manos y es el tambor que refuerza la melodía o responde a ella. Durante su ejecución, el músico realiza adornos complejos e improvisaciones.                    "
+                },
+                {
+                    "nombre": "Tambor llamador",
+                    "sonido": "",
+                    "anim": "TAMBOR_LLAMADOR.gif",
+                    "texto": "Tambor cónico de una sola membrana, con un sistema de tensión por cuñas de madera. Su función en los conjuntos de música tradicional consiste en marcar el contratiempo y, a diferencia del tambor alegre, no realiza adornos o “revuelos” en su interpretación.                     "
+                },
+                {
+                    "nombre": "Guache",
+                    "sonido": "",
+                    "anim": "GUACHO.gif",
+                    "texto": "Instrumento que hace las veces de una sonaja tubular, fabricada por lo general en un tubo de latón con semillas secas de acacia, capacho o bijao en su interior. Se interpreta agitando el instrumento.                    "
+                }
+            ]
+        },
+        {
+            "nombre": "caribe_oriental",
+            "anim": "CARIBE_ORIENTAL.gif",
+            "titulo": "Caribe oriental",
+            "cuerpo": "El Caribe oriental comprende los departamentos de la Guajira, Magdalena y Cesar. La expresión más representativa de esta región es la música de acordeón o música vallenata, la cual tiene cuatro géneros musicales: paseo, merengue, son y puya. El conjunto típico vallenato está conformado por el acordeón de botones o la guitarra, la guacharaca, la caja y el bajo eléctrico. <br><br> Los acordeoneros fueron juglares que se movilizaban de pueblo en pueblo contando historias y que usaban el acordeón de fondo musical. Luego se acompañaron de instrumentos fáciles de llevar, como la guacharaca y la caja vallenata, con los que se armaban parrandas.<br><br>El mayor evento dedicado a esta música es el Festival de la Leyenda Vallenata, llevado a cabo todos los años en Valledupar.  El vallenato tradicional fue declarado Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO en 2015.            ",
+            "mapa": "",
+            "ind_pos": "tl",
+            "color_fondo": "#ffb549",
+            "canciones": [
+                {
+                    "cancion": "Fidelina",
+                    "nombre": "Fidelina",
+                    "genero": "Son",
+                    "autor": "Alejo Durán"
+                },
+                {
+                    "cancion": "Pedazo_de_Acordeon",
+                    "nombre": "Pedazo de acordeón",
+                    "genero": "Puya",
+                    "autor": "Alejo Durán"
+                },
+                {
+                    "cancion": "El_Conquistador",
+                    "nombre": "El Conquistador",
+                    "genero": "Paseo",
+                    "autor": "Alfonso Cotes Ovalle"
+                }
+            ],
+            "instrumentos": [
+                {
+                    "nombre": "Acordeón de botones",
+                    "sonido": "",
+                    "anim": "ACORDEON.gif",
+                    "texto": "Instrumento musical armónico de viento de origen europeo. Está formado por un fuelle, en cuyos extremos tiene botones que, al presionarlos, dan paso al aire que pone a vibrar unas láminas metálicas. Con el tiempo se cambiaron los botones de la mano derecha por un teclado semejante al del piano; sin embargo, el acordeón de botones se sigue usando en países del Caribe, como Colombia y República Dominicana.                    "
+                },
+                {
+                    "nombre": "Caja vallenata",
+                    "sonido": "",
+                    "anim": "CAJA_VALLENATA.gif",
+                    "texto": "Este instrumento de percusión es un tambor cónico, con un parche en un lado y el otro extremo abierto. La membrana originalmente era de cuero de venado, chivo, ovejo u otros animales y actualmente es de materiales sintéticos. Es uno de los cuatro instrumentos tradicionales del vallenato, junto al acordeón, la guacharaca y el bajo.                    "
+                },
+                {
+                    "nombre": "Guacharaca",
+                    "sonido": "",
+                    "anim": "GUACHARACA.gif",
+                    "texto": "Instrumento de origen indígena que también se conoce como raspa. Su nombre proviene del canto del ave con el mismo nombre. Es fabricado con una sección de caña dentada en la parte frontal y hueca en la posterior. Para interpretarlo, se frota la parte corrugada con un tenedor metálico, hecho de alambre duro y un mango de madera.                     "
+                },
+                {
+                    "nombre": "Bajo eléctrico",
+                    "sonido": "",
+                    "anim": "BAJO_ELECTRICO.gif",
+                    "texto": "Instrumento musical de cuerda similar en apariencia y construcción a la guitarra eléctrica, pero con un cuerpo y un mástil de mayores dimensiones y unas cuerdas más gruesas para producir sonidos más graves. Aunque los hay de cinco y seis cuerdas, normalmente tienen cuatro.                    "
+                },
+                {
+                    "nombre": "Guitarra",
+                    "sonido": "Guitarra carranguera",
+                    "anim": "GUITARRA.gif",
+                    "texto": "Instrumento de cuerda con una tapa de pino y una caja de resonancia elaborada generalmente en cedro. Tiene seis cuerdas de nailon o tripa y dieciocho trastes; es decir, las divisiones del mango que indican la posición de los dedos para las diferentes tonalidades.                     "
+                }
+            ]
+        },
+        {
+            "nombre": "frontera",
+            "anim": "FRONTERA.gif",
+            "titulo": "De frontera",
+            "cuerpo": "Las expresiones musicales de esta región, comprendida por las fronteras del departamento de Amazonas y Putumayo, ha recibido influencias de Brasil y Perú. Son difíciles de definir. Provienen de mezclas de ritmos y culturas diversos. Así nacieron ritmos propios, como la paseata, con canciones tan famosas como la Mariquiña o Mariquinha, compuesta por el cantautor leticiano Pedro Bernal Méndez.<br><br>La ciudad de Leticia ha tenido un papel muy importante en la apropiación y divulgación de estas músicas, gracias a eventos como el Festival Internacional de Música Popular Amazonense, conocido como el Pirarucú de Oro, celebrado en el mes de noviembre. En este evento participan artistas no solo de Colombia, sino también de Perú y Brasil.            ",
+            "mapa": "",
+            "ind_pos": "br",
+            "color_fondo": "#3c69ce",
+            "canciones": [
+                {
+                    "cancion": "Mariquina_version_2",
+                    "nombre": "Mariquinha",
+                    "genero": "Música popular amazónica",
+                    "autor": "Pedro Bernal"
+                },
+                {
+                    "cancion": "Tierra_de_paz",
+                    "nombre": "Tierra de paz",
+                    "genero": "Música popular amazónica",
+                    "autor": "Ricardo Marín (letra) y Octavio Angulo (música)"
+                },
+                {
+                    "cancion": "Paisaje_tropical",
+                    "nombre": "Paisaje Tropical",
+                    "genero": "Música popular amazónica",
+                    "autor": "Ricardo Marín (letra) y Octavio Angulo (música)"
+                }
+            ],
+            "instrumentos": [
+                {
+                    "nombre": "Guitarra requinto                    ",
+                    "sonido": "",
+                    "anim": "GUITARRA_REQUINTO.gif",
+                    "texto": "El nombre requinto se debe a su afinación más alta con respecto a la guitarra convencional. Suele tener una función melódica y sus cuerdas se tocan con los dedos o con un plectro (púa). Tiene seis cuerdas de nailon o tripa, afinadas de agudo a grave (la, mi, do, sol, re y la).                    "
+                },
+                {
+                    "nombre": "Guacharaca",
+                    "sonido": "",
+                    "anim": "GUACHARACA.gif",
+                    "texto": "Instrumento de origen indígena que también se conoce como raspa. Su nombre proviene del canto del ave con el mismo nombre. Es fabricado con una sección de caña dentada en la parte frontal y hueca en la posterior. Para interpretarlo, se frota la parte corrugada con un tenedor metálico, hecho de alambre duro y un mango de madera.                     "
+                },
+                {
+                    "nombre": "Guitarra",
+                    "sonido": "Guitarra carranguera",
+                    "anim": "GUITARRA.gif",
+                    "texto": "Instrumento de cuerda con una tapa de pino y una caja de resonancia elaborada generalmente en cedro. Tiene seis cuerdas de nailon o tripa y dieciocho trastes; es decir, las divisiones del mango que indican la posición de los dedos para las diferentes tonalidades.                     "
+                }
+            ]
+        },
+        {
+            "nombre": "islenas",
+            "anim": "ISLEÑAS.gif",
+            "titulo": "Isleñas",
+            "cuerpo": "Las músicas isleñas son una amplia variedad de formas musicales, interpretadas por buena parte de la población de San Andrés, Providencia y Santa Catalina. Tienen grandes influencias de Jamaica, Trinidad y Tobago, Colombia continental, Cuba y Estados Unidos. <br>Por eso, hoy suenan en las islas colombianas el reggae, la soka, el suck, el foxtrot y el mento, pero también músicas que se alimentan del vallenato, la terapia y la champeta.",
+            "mapa": "",
+            "ind_pos": "bl",
+            "color_fondo": "#3c69ce",
+            "canciones": [
+                {
+                    "cancion": "2_Beatiful_San_Andres_version_Instrumental",
+                    "nombre": "Beatiful San Andres",
+                    "genero": "Calypso",
+                    "autor": "Anónimo"
+                },
+                {
+                    "cancion": "01_Lina_Gal",
+                    "nombre": "Lina Gal",
+                    "genero": "Música de providencia",
+                    "autor": "Anónimo"
+                },
+                {
+                    "cancion": "19_Nobody_business_but_my_own_(mento)",
+                    "nombre": "Nobody business but my own",
+                    "genero": "Mento",
+                    "autor": "Anónimo"
+                }
+            ],
+            "instrumentos": [
+                {
+                    "nombre": "Mandolina",
+                    "anim": "MANDOLINA.gif",
+                    "texto": "Instrumento de cuerda encargado de hacer melodías dentro de la agrupación. A veces, es reemplazado por la guitarra, el violín o el acordeón."
+                },
+                {
+                    "nombre": "Guitarra",
+                    "anim": "GUITARRA.gif",
+                    "texto": "Instrumento de cuerda con una tapa de pino y una caja de resonancia elaborada generalmente en cedro. Tiene seis cuerdas de nailon o tripa y dieciocho trastes; es decir, las divisiones del mango que indican la posición de los dedos para las diferentes tonalidades. "
+                },
+                {
+                    "nombre": "Tináfono",
+                    "anim": "TINAFONO.gif",
+                    "texto": "Este instrumento de cuerda es una forma simple de contrabajo. Cumple la función de bajo armónico y de efecto de percusión. Está hecho de un recipiente de zinc, una cuerda gruesa y una vara de madera, que permite estirarla para afinarla."
+                },
+                {
+                    "nombre": "Carraca o quijada",
+                    "anim": "QUIJADA.gif",
+                    "texto": "Es la mandíbula inferior de un equino. Se considera idiófono porque su propio cuerpo produce el sonido. Puede ser golpeada o rozada con una vara por encima de sus dientes."
+                },
+                {
+                    "nombre": "Maracas",
+                    "anim": "MARACAS.gif",
+                    "texto": "Calabazos esféricos con semillas en su interior y mango de madera. Es un idiófono de sacudimiento. Es decir que el sonido se produce al sacudir el cuerpo del instrumento. Existen muchas formas de maracas en Colombia que varían según su tamaño y materiales de fabricación."
+                },
+                {
+                    "nombre": "Violín",
+                    "anim": "Violin.gif",
+                    "texto": "Instrumento de cuerda frotada de origen italiano. Tiene cuatro cuerdas y es el más pequeño y agudo de los instrumentos de la familia: violín, viola, violonchelo y contrabajo. "
+                }
+            ]
+        },
+        {
+            "nombre": "llaneras",
+            "anim": "LLANERA.gif",
+            "titulo": "Llaneras",
+            "cuerpo": "En los Llanos Orientales colombianos se encuentra el joropo, una expresión musical alrededor de la cual se reúnen familiares y amigos para festejar. Esta tradición se comparte con los llanos venezolanos. <br><br>Los llaneros le cantan a la vida cotidiana, a las jornadas de trabajo y a los acontecimientos importantes, y lo hacen a través de las coplas, que es una de las manifestaciones musicales más relevantes.<br><br>La música de esta región gira alrededor de un instrumento llamado líder o melódico (arpa, bandola, bandolín o guitarra) y tres instrumentos acompañantes, que generalmente son el cuatro, el bajo eléctrico y las maracas, conocidas como capachos.            ",
+            "mapa": "",
+            "ind_pos": "tl",
+            "color_fondo": "#16a564",
+            "canciones": [
+                {
+                    "cancion": "Llanero_siente_y_lamenta",
+                    "nombre": "Llanero siente y lamenta",
+                    "genero": "Pasaje",
+                    "autor": "Tradicional"
+                },
+                {
+                    "cancion": "Quita_Pasares",
+                    "nombre": "Quitapesares",
+                    "genero": "Joropo instrumental",
+                    "autor": "Tradicional"
+                },
+                {
+                    "cancion": "Llanero_Si_Soy_Llanero",
+                    "nombre": "Llanero, si, soy llanero",
+                    "genero": "Golpe recio",
+                    "autor": "Música tradicional, letra de 'el cholo' Valderrama"
+                }
+            ],
+            "instrumentos": [
+                {
+                    "nombre": "Arpa llanera",
+                    "sonido": "",
+                    "anim": "ARPA.gif",
+                    "texto": "Instrumento de cuerdas libres que se pulsan con los dedos. Durante el siglo XIX, se consolidó como el instrumento principal de varios géneros de música regional tradicional latinoamericana, como sucedió, por ejemplo, en Colombia, México y Paraguay.                    "
+                },
+                {
+                    "nombre": "Cuatro",
+                    "sonido": "",
+                    "anim": "CUATRO.gif",
+                    "texto": "Instrumento de cuerda pulsada de la familia de la guitarra. Es de pequeño tamaño y debe su nombre a que posee cuatro cuerdas, que en sus comienzos eran de tripa de animal y ahora son de plástico. Se interpreta por medio del rasgueo recio.               "
+                },
+                {
+                    "nombre": "Bandola llanera",
+                    "sonido": "",
+                    "anim": "BANDOLA_LLANERA.gif",
+                    "texto": "Se compone de cuatro cuerdas y generalmente sustituye la melodía del arpa llanera. Se toca con plectro o púa, un pequeño triángulo de plástico con el que se pulsan las cuerdas. Inicialmente no tenía más de 7 trastes, pero la habilidad de los intérpretes llevó a que se le agregaran más. Es fabricada de alguno o varios de los siguientes materiales: pino abeto, palisandro, ébano o cedro.             "
+                },
+                {
+                    "nombre": "Maracas o capachos",
+                    "sonido": "",
+                    "anim": "CAPACHOS.gif",
+                    "texto": "Idiófonos más pequeños que las maracas del Caribe colombiano. Producen el sonido al sacudir el cuerpo del instrumento. Son calabazos secos con semillas de capacho dentro y se tocan en pares. En el joropo, los maraqueros son virtuosos y, con frecuencia, interpretan improvisaciones y solos en los conciertos.                    "
+                },
+                {
+                    "nombre": "Furruco",
+                    "sonido": "",
+                    "anim": "FURRUCO.gif",
+                    "texto": "Instrumento usado para marcar los bajos en las canciones. Consiste en un cilindro de madera hueco en los extremos, uno de ellos envuelto con piel de algún equino. Una barra de cañabrava, recubierta de cera de abeja, es insertada en la mitad del cuero y, al ser presionada hacia abajo o hacia arriba, produce un sonido grave.                    "
+                },
+                {
+                    "nombre": "Bajo eléctrico",
+                    "sonido": "",
+                    "anim": "BAJO_ELECTRICO.gif",
+                    "texto": "Instrumento musical de cuerda similar en apariencia y construcción a la guitarra eléctrica, pero con un cuerpo y un mástil de mayores dimensiones y unas cuerdas más gruesas para producir sonidos más graves. Aunque los hay de cinco y seis cuerdas, normalmente tienen cuatro.                    "
+                }
+            ]
+        },
+        {
+            "nombre": "pacifico",
+            "anim": "VALLES_INTERANDINOS.gif",
+            "titulo": "Valles interandinos del pacífico",
+            "cuerpo": "Este territorio comprende las tierras bajas de la cordillera Occidental, en el departamento del Cauca: Puerto Tejada, Santander de Quilichao, Buenos Aires, Suárez, El Tambo, el Valle del Patía y Mercaderes. Allí se encuentran agrupaciones de violines caucanos y bandas de viento, conocidas como papayeras.<br><br> El conjunto de violines caucanos es el más visible desde su reconocimiento en el Festival de Música del Pacífico Petronio Álvarez, en el año 2008. Está conformado por violines, voces, tiple, guitarra, contrabajo, tambora y maracas.<br><br>Los negros se apropiaron del violín, un instrumento europeo, y con él interpretan bambucos, fugas y torbellinos negros. Esta expresión cultural ha servido para pensar a las comunidades negras como intérpretes de instrumentos diferentes a los de percusión.            ",
+            "mapa": "",
+            "ind_pos": "br",
+            "color_fondo": "#16a564",
+            "canciones": [
+                {
+                    "cancion": "Con_el_alma_y_el_corazon",
+                    "nombre": "Con el alma y el corazón",
+                    "genero": "Juga",
+                    "autor": "Luis Edel Carabalí"
+                },
+                {
+                    "cancion": "Asi_se_baila_la_juga",
+                    "nombre": "Así se baila la juga",
+                    "genero": "Juga",
+                    "autor": "José Edier Solís"
+                },
+                {
+                    "cancion": "Mi_Huerta",
+                    "nombre": "La huerta",
+                    "genero": "Juga",
+                    "autor": "Fundación AmbientArte"
+                }
+            ],
+            "instrumentos": [
+                {
+                    "nombre": "Violín de guadua",
+                    "sonido": "",
+                    "anim": "Violin_guadua.gif",
+                    "texto": "Los pobladores de los valles interandinos se apropiaron del violín, traído de Europa por los misioneros. Aprendieron a tocarlo por observación y fabricaron los suyos con guadua. Con el tiempo, han accedido a los violines europeos, pero siguen fabricando los de guadua, tal como se ve cada año en el Festival de Música del Pacífico Petronio Álvarez.                    "
+                },
+                {
+                    "nombre": "Contrabajo",
+                    "sonido": "",
+                    "anim": "CONTRABAJO.gif",
+                    "texto": "Instrumento de cuerdas de origen europeo de la familia de los violines, los chelos y las violas. Es fabricado con maderas finas o triplex laminado. Posee cuatro cuerdas cuya afinación de agudo a grave es: sol, re, la y mi. Su interpretación se hace con arco o, como en los valles interandinos, con los dedos.                    "
+                },
+                {
+                    "nombre": "Violín",
+                    "sonido": "",
+                    "anim": "Violin.gif",
+                    "texto": "Instrumento de cuerda frotada de origen italiano. Tiene cuatro cuerdas y es el más pequeño y agudo de su familia: violín, viola, violonchelo y contrabajo.                     "
+                },
+                {
+                    "nombre": "Tambora",
+                    "sonido": "",
+                    "anim": "TAMBORA_VIOLINES_CAUCANOS.gif",
+                    "texto": "Instrumento de membranas, elaborado con tronco de palma y forrado con piel de oveja. Es común que le pongan encima un platillo, el cual es golpeado no con baquetas sino con otro platillo (a manera de los platillos chocoanos). En la región, al uso de esta tambora con un platillo encima lo llaman batería.                    "
+                },
+                {
+                    "nombre": "Maracas",
+                    "sonido": "",
+                    "anim": "MARACAS_CAUCANAS.gif",
+                    "texto": "Calabazos esféricos con semillas en su interior y mango de madera. Es un idiófono de sacudimiento —el sonido se produce al sacudir el cuerpo del instrumento—. Existen muchas formas de maracas en Colombia que varían según su tamaño y materiales de fabricación.                    "
+                },
+                {
+                    "nombre": "Guitarra",
+                    "sonido": "Guitarra carranguera",
+                    "anim": "GUITARRA.gif",
+                    "texto": "Instrumento de cuerda con una tapa de pino y una caja de resonancia elaborada generalmente en cedro. Tiene seis cuerdas de nailon o tripa y dieciocho trastes; es decir, las divisiones del mango que indican la posición de los dedos para las diferentes tonalidades.                     "
+                },
+                {
+                    "nombre": "Tiple",
+                    "sonido": "Tiple carranguero",
+                    "anim": "TIPLE.gif",
+                    "texto": "Se origina en la guitarra española, pero es un poco más pequeño. Tiene doce cuerdas metálicas agrupadas de a tres. Es típico de Colombia y declarado por el Congreso de la República como Patrimonio Cultural de la Nación. Se utiliza en el acompañamiento de ritmos tradicionales como pasillo, bambuco y trova paisa. También como instrumento solista en festivales de música andina.                    "
+                }
+            ]
+        },
+        {
+            "nombre": "pacifico_norte",
+            "anim": "PACIFICO_NORTE.gif",
+            "titulo": "Del Pacífico norte",
+            "cuerpo": "El norte del Pacífico colombiano corresponde al departamento del Chocó. Allí conviven la música de chirimía, una manifestación heredera de las bandas militares que llegaron con los españoles, con los alabaos y cantos de boga; el porro chocoano, que muestra la influencia del porro de banda del Caribe colombiano, con el tradicional abozao; nuevas formas de apropiación de los antiguos bailes de salón europeos —la polka, el  mazurca, la jota— con el aguabajo y el levanta polvo.<br><br>La celebración más tradicional de esta región son las fiestas de San Pacho, que se ha fortalecido con la declaración como Patrimonio Inmaterial de la Humanidad por la UNESCO en 2012.            ",
+            "mapa": "",
+            "ind_pos": "br",
+            "color_fondo": "#ffb549",
+            "canciones": [
+                {
+                    "cancion": "Fidelina",
+                    "nombre": "Fidelina",
+                    "genero": "Abozao",
+                    "autor": "Rubén Castro Torrijos"
+                },
+                {
+                    "cancion": "Jota_chocoana",
+                    "nombre": "Jota chocoana",
+                    "genero": "Jota",
+                    "autor": "Tradicional"
+                },
+                {
+                    "cancion": "La_Canoa_Arranchada",
+                    "nombre": "La canoa arranchada",
+                    "genero": "Aguabajo",
+                    "autor": "Rubén Castro Torrijos"
+                }
+            ],
+            "instrumentos": [
+                {
+                    "nombre": "Clarinete",
+                    "sonido": "",
+                    "anim": "Clarinete000.gif",
+                    "texto": "Instrumento perteneciente a la familia de vientos de madera. Con el clarinete se pueden obtener diversos sonidos, que dependen, entre otras cosas, de la lengüeta: una pieza conocida comúnmente como caña, que se pone en la boquilla para que el instrumento pueda sonar.                    "
+                },
+                {
+                    "nombre": "Bombardino",
+                    "sonido": "",
+                    "anim": "BOMBARDINO.gif",
+                    "texto": "Instrumento de viento también conocido como euphonium, término griego que significa voz suave. Puede llevar la melodía o acompañar. Tiene tres o cuatro pistones que cambian la distribución del aire dentro del tubo para producir diferentes frecuencias.                    "
+                },
+                {
+                    "nombre": "Tambora chocoana",
+                    "sonido": "",
+                    "anim": "TAMBORA_CHOCOANA_CHIRIMIA.gif",
+                    "texto": "Instrumento de forma cilíndrica que tiene dos membranas. Es tocado con dos baquetas de madera: una para el cuerpo de la tambora, también de madera, y la otra, recubierta con un material esponjoso, para el parche.                    "
+                },
+                {
+                    "nombre": "Platillos chocoanos",
+                    "sonido": "",
+                    "anim": "PLATILLOS_CHOCOANOS.gif",
+                    "texto": "Platos metálicos con agarraderas que, al ser estrellados entre sí, producen sonido. En el Chocó, generalmente se construyen de latón y son un poco más pequeños que los de banda pelayera del Caribe occidental, lo que permite que los músicos puedan tocar patrones rítmicos rápidos.                    "
+                },
+                {
+                    "nombre": "Redoblante",
+                    "sonido": "",
+                    "anim": "REDOBLANTE.gif",
+                    "texto": "Instrumento de percusión de forma cilíndrica que tiene dos membranas y se toca con baquetas. Cuenta con un mecanismo de fibras metálicas que vibran sobre el parche inferior al cual está fijado y que le proporciona su principal característica tímbrica.                    "
+                }
+            ]
+        },
+        {
+            "nombre": "pacifico_sur",
+            "anim": "PACIFICO_SUR.gif",
+            "titulo": "Del Pacífico sur",
+            "cuerpo": "El Pacífico sur es un territorio conformado por la zona costera de los departamentos de Cauca, Valle del Cauca y Nariño. La principal expresión musical de esta región es la música del conjunto de marimba. <br><br> Entre los toques tradicionales se encuentran el bunde, la juga y el currulao o bambuco viejo. Además de la música del conjunto de marimba, también se interpretan alabaos, cantos que reúnen a muchas personas en entorno a la muerte de un ser querido. <br><br>La música de marimba y los cantos y bailes tradicionales de esta región fueron declarados Patrimonio Inmaterial de la Humanidad por la UNESCO en 2015. El festival de música del Pacífico Petronio Álvarez, realizado en la ciudad de Cali desde 1996, se ha convertido en un importante escenario para la apropiación y divulgación de estas músicas.",
+            "mapa": "",
+            "ind_pos": "tr",
+            "color_fondo": "#f9ada7",
+            "canciones": [
+                {
+                    "cancion": "La_Marea",
+                    "nombre": "La marea",
+                    "genero": "Currulao",
+                    "autor": "Inés Granja Herrera"
+                },
+                {
+                    "cancion": "Una_Mananita_(One_Morning)",
+                    "nombre": "Una mañanita",
+                    "genero": "Juga",
+                    "autor": "Tradicional"
+                },
+                {
+                    "cancion": "Llanto_En_El_Cielo",
+                    "nombre": "Llanto en el cielo",
+                    "genero": "Alabao",
+                    "autor": "Nidia Góngora"
+                }
+            ],
+            "instrumentos": [
+                {
+                    "nombre": "Marimba de chonta",
+                    "sonido": "",
+                    "anim": "MARIMBA_CHONTA.gif",
+                    "texto": "Se fabrica con madera de chonta extraída de las palmas de chontaduro, gualte o pambil. Los resonadores que amplifican el sonido de la marimba son de guadua. Aunque la afinación de las marimbas tradicionales suele ser diferente a la que se usa en la música Occidental, en los últimos años se han construido marimbas afinadas en dicho sistema para permitir la interacción con guitarras, pianos o saxofones."
+                },
+                {
+                    "nombre": "Guasá",
+                    "sonido": "",
+                    "anim": "GUASA.gif",
+                    "texto": "Sonajero fabricado con una sección de guadua con palillos atravesados a lo largo de su cuerpo. En su interior tiene semillas secas de achira, que producen el sonido al sacudir el instrumento. Generalmente es interpretado por mujeres. La tradición dice que su sonido mejora al guardarlo debajo del humo para que tome un color oscuro y se mantenga caliente.                    "
+                },
+                {
+                    "nombre": "Bombo",
+                    "sonido": "",
+                    "anim": "BOMBO_PACIFICO.gif",
+                    "texto": "Instrumento de membranas, cuerpo cilíndrico y dos parches. Se toca con dos baquetas: una tiene un trozo de tela en un extremo, se llama boliche o mazo y se utiliza para golpear el parche. La otra baqueta se llama apagante y se usa para golpear el cuerpo de madera de la tambora. En el grupo de marimba, se utilizan dos bombos de diferentes tamaños, llamados macho y hembra.                    "
+                },
+                {
+                    "nombre": "Cununos",
+                    "sonido": "",
+                    "anim": "CUNUNOS.gif",
+                    "texto": "Tambores de forma cilíndrica, más anchos arriba que en el fondo. Tienen una membrana de cuero, tensionada con cuerdas y cuñas, y un fondo cerrado. Son llamados hembra o macho de acuerdo a su afinación y al patrón rítmico que ejecutan. Se tocan con las manos.                    "
+                }
+            ]
+        },
+        {
+            "nombre": "caribe_occidental_baile_cantao",
+            "anim": "CARIBE_OCC_CANTAO.gif",
+            "titulo": "Caribe occidental",
+            "cuerpo": "El Caribe occidental comprende los territorios de Sucre, Bolívar, Córdoba, Atlántico, parte del Magdalena y una pequeña franja del noroccidente de Antioquia. <br><br>            A lo largo del litoral, se difundieron diferentes tipos de flautas y tambores, a los que se sumaron durante el siglo XVIII instrumentos como platillos, bombardinos, trompetas y clarinetes, propios de las bandas europeas. Con estos instrumentos, inicialmente se interpretaron bailes de salón, como mazurcas, polcas y valses, pero hoy representan un fuerte movimiento de bandas pelayeras que interpretan ritmos tradicionales en las sabanas.<br><br>            El Carnaval de Barranquilla y las Fiestas de Corralejas en Sincelejo son algunos de los eventos que más visibilizan estas músicas. De esta región provienen los diferentes tipos de cumbia, unos de los géneros musicales colombianos más conocidos en el mundo. ",
+            "mapa": "",
+            "ind_pos": "br",
+            "color_fondo": "#3c69ce",
+            "canciones": [
+                {
+                    "cancion": "Bullerengue_Pa_Vende",
+                    "nombre": "Bullerengue pa' vendé",
+                    "genero": "Bullerengue",
+                    "autor": "Graciela Salgado"
+                }
+            ],
+            "instrumentos": [
+                {
+                    "nombre": "Tablitas",
+                    "sonido": "",
+                    "anim": "TABLITAS.gif",
+                    "texto": "Son dos tablas parecidas a una raqueta de pimpón que se usan como sustituto de las palmas de las manos. Se tocan para marcar el pulso en músicas como el bullerengue y el chandé.                     "
+                },
+                {
+                    "nombre": "Tambora",
+                    "sonido": "",
+                    "anim": "TAMBORA_CARIBE.gif",
+                    "texto": "Tambor cilíndrico, fabricado con madera. Es parecido al bombo de la música del Pacífico. Posee dos membranas de piel de venado, chivo o ternero, ancladas a un sistema de tensión con aros. Se toca con baquetas: una larga, para el aro o la madera, y otra más pequeña y gruesa, para el parche.            "
+                },
+                {
+                    "nombre": "Tambor alegre",
+                    "sonido": "",
+                    "anim": "TAMBOR_ALEGRE.gif",
+                    "texto": "Tambor cónico de una sola membrana y abierto abajo. Se fabrica con tronco de árbol y un cuero de animal como parche, que se tensiona con cuerdas y cuñas de madera. Se toca con las manos y es el tambor que refuerza la melodía o responde a ella. Durante su ejecución, el músico realiza adornos complejos e improvisaciones.                    "
+                },
+                {
+                    "nombre": "Tambor llamador",
+                    "sonido": "",
+                    "anim": "TAMBOR_LLAMADOR.gif",
+                    "texto": "Tambor cónico de una sola membrana, con un sistema de tensión por cuñas de madera. Su función en los conjuntos de música tradicional consiste en marcar el contratiempo y, a diferencia del tambor alegre, no realiza adornos o “revuelos” en su interpretación.                     "
+                },
+                {
+                    "nombre": "Guache",
+                    "sonido": "",
+                    "anim": "GUACHO.gif",
+                    "texto": "Instrumento que hace las veces de una sonaja tubular, fabricada por lo general en un tubo de latón con semillas secas de acacia, capacho o bijao en su interior. Se interpreta agitando el instrumento.                    "
+                }
+            ]
+        },
+        {
+            "nombre": "caribe_occidental_banda_pelayera",
+            "anim": "CARIBE_OCC_PELAYERA.gif",
+            "titulo": "Caribe occidental",
+            "cuerpo": "El Caribe occidental comprende los territorios de Sucre, Bolívar, Córdoba, Atlántico, parte del Magdalena y una pequeña franja del noroccidente de Antioquia. <br><br>            A lo largo del litoral, se difundieron diferentes tipos de flautas y tambores, a los que se sumaron durante el siglo XVIII instrumentos como platillos, bombardinos, trompetas y clarinetes, propios de las bandas europeas. Con estos instrumentos, inicialmente se interpretaron bailes de salón, como mazurcas, polcas y valses, pero hoy representan un fuerte movimiento de bandas pelayeras que interpretan ritmos tradicionales en las sabanas.<br><br>            El Carnaval de Barranquilla y las Fiestas de Corralejas en Sincelejo son algunos de los eventos que más visibilizan estas músicas. De esta región provienen los diferentes tipos de cumbia, unos de los géneros musicales colombianos más conocidos en el mundo. ",
+            "mapa": "",
+            "ind_pos": "br",
+            "color_fondo": "#3c69ce",
+            "canciones": [
+                {
+                    "cancion": "La_Vaca_Vieja",
+                    "nombre": "La vaca vieja",
+                    "genero": "Banda pelayera",
+                    "autor": "Clímaco Sarmiento"
+                }
+            ],
+            "instrumentos": [
+                {
+                    "nombre": "Trompeta",
+                    "sonido": "",
+                    "anim": "Trompeta.gif",
+                    "texto": "Instrumento de viento de la familia de los metales que se interpreta con la vibración de los labios. Tiene una embocadura montada sobre un tubo cilíndrico y en su extremo termina con forma de campana.                     "
+                },
+                {
+                    "nombre": "Clarinete",
+                    "sonido": "",
+                    "anim": "Clarinete000.gif",
+                    "texto": "Instrumento perteneciente a la familia de vientos de madera. Con el clarinete se pueden obtener diversos sonidos, que dependen, entre otras cosas, de la lengüeta: una pieza conocida comúnmente como caña, que se pone en la boquilla para que el instrumento pueda sonar.                    "
+                },
+                {
+                    "nombre": "Bombardino",
+                    "sonido": "",
+                    "anim": "BOMBARDINO.gif",
+                    "texto": "Instrumento de viento también conocido como euphonium, término griego que significa voz suave. Puede llevar la melodía o acompañar. Tiene tres o cuatro pistones que cambian la distribución del aire dentro del tubo para producir diferentes frecuencias.                    "
+                },
+                {
+                    "nombre": "Platillos",
+                    "sonido": "",
+                    "anim": "PLATILLOS.gif",
+                    "texto": "Instrumentos idiófonos; es decir, el sonido es emitido por la vibración del cuerpo del instrumento. Son fabricados con dos láminas metálicas que forman dos círculos que producen su sonido al ser estrellados entre sí.                    "
+                },
+                {
+                    "nombre": "Redoblante",
+                    "sonido": "",
+                    "anim": "REDOBLANTE.gif",
+                    "texto": "Instrumento de percusión de forma cilíndrica que tiene dos membranas y se toca con baquetas. Cuenta con un mecanismo de fibras metálicas que vibran sobre el parche inferior al cual está fijado y que le proporciona su principal característica tímbrica.                    "
+                },
+                {
+                    "nombre": "Bombo",
+                    "sonido": "",
+                    "anim": "BOMBO_PELAYERA.gif",
+                    "texto": "Tambor grande de madera o metal con dos parches en sus extremos que se tensionan con un aro sujetado con tornillos metálicos. Los porros de bandas de viento se dividen en tapaos y palitiaos. En los tapaos, el bombero golpea el parche del instrumento en toda la pieza. En los palitiaos, hay una sección del porro llamada bozá, en la cual el bombero deja de golpear el parche y toca la madera del instrumento.                    "
+                }
+            ]
+        },
+        {
+            "nombre": "caribe_occidental_caribe_occidental",
+            "anim": "CARIBE_OCC_PITO_ATRAV.gif",
+            "titulo": "Caribe occidental",
+            "cuerpo": "El Caribe occidental comprende los territorios de Sucre, Bolívar, Córdoba, Atlántico, parte del Magdalena y una pequeña franja del noroccidente de Antioquia. <br><br>            A lo largo del litoral, se difundieron diferentes tipos de flautas y tambores, a los que se sumaron durante el siglo XVIII instrumentos como platillos, bombardinos, trompetas y clarinetes, propios de las bandas europeas. Con estos instrumentos, inicialmente se interpretaron bailes de salón, como mazurcas, polcas y valses, pero hoy representan un fuerte movimiento de bandas pelayeras que interpretan ritmos tradicionales en las sabanas.<br><br>            El Carnaval de Barranquilla y las Fiestas de Corralejas en Sincelejo son algunos de los eventos que más visibilizan estas músicas. De esta región provienen los diferentes tipos de cumbia, unos de los géneros musicales colombianos más conocidos en el mundo. ",
+            "mapa": "",
+            "ind_pos": "br",
+            "color_fondo": "#3c69ce",
+            "canciones": [
+                {
+                    "cancion": "La_rasquinita_Santiago_Ospino",
+                    "nombre": "'La rasquiñita' Golpe evitalero",
+                    "genero": "Conjunto de millo",
+                    "autor": "Santiago Ospino"
+                }
+            ],
+            "instrumentos": [
+                {
+                    "nombre": "Flauta de millo",
+                    "sonido": "",
+                    "anim": "FLAUTA_MILLO.gif",
+                    "texto": "Conocida también como caña de millo o pito atravesao, es un instrumento melódico, aerófono, de lengüeta libre. Es fabricado por lo general con caña de millo o sorgo. Posee cuatro orificios que, al ser tapados por las yemas de los dedos, producen las diferentes alturas.                     "
+                },
+                {
+                    "nombre": "Maracones",
+                    "sonido": "",
+                    "anim": "MARACON.gif",
+                    "texto": "Idiófonos de sacudimiento —el sonido se produce al sacudir el cuerpo del instrumento— hechos de totumo, que tienen por dentro semillas secas de acacia, capacho o bijao. Por lo general, los interpreta el gaitero macho o machero con una mano, mientras con la otra interpreta la gaita.                    "
+                },
+                {
+                    "nombre": "Tambora",
+                    "sonido": "",
+                    "anim": "TAMBORA_CARIBE.gif",
+                    "texto": "Tambor cilíndrico, fabricado con madera. Es parecido al bombo de la música del Pacífico. Posee dos membranas de piel de venado, chivo o ternero, ancladas a un sistema de tensión con aros. Se toca con baquetas: una larga, para el aro o la madera, y otra más pequeña y gruesa, para el parche.            "
+                },
+                {
+                    "nombre": "Tambor alegre",
+                    "sonido": "",
+                    "anim": "TAMBOR_ALEGRE.gif",
+                    "texto": "Tambor cónico de una sola membrana y abierto abajo. Se fabrica con tronco de árbol y un cuero de animal como parche, que se tensiona con cuerdas y cuñas de madera. Se toca con las manos y es el tambor que refuerza la melodía o responde a ella. Durante su ejecución, el músico realiza adornos complejos e improvisaciones.                    "
+                },
+                {
+                    "nombre": "Tambor llamador",
+                    "sonido": "",
+                    "anim": "TAMBOR_LLAMADOR.gif",
+                    "texto": "Tambor cónico de una sola membrana, con un sistema de tensión por cuñas de madera. Su función en los conjuntos de música tradicional consiste en marcar el contratiempo y, a diferencia del tambor alegre, no realiza adornos o “revuelos” en su interpretación.                     "
+                },
+                {
+                    "nombre": "Guache",
+                    "sonido": "",
+                    "anim": "GUACHO.gif",
+                    "texto": "Instrumento que hace las veces de una sonaja tubular, fabricada por lo general en un tubo de latón con semillas secas de acacia, capacho o bijao en su interior. Se interpreta agitando el instrumento.                    "
+                }
+            ]
+        }
+    ]
+}
